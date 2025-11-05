@@ -157,9 +157,9 @@ Each block is a LabVIEW VI with clear inputs and outputs:
 ---
 
 ## Contact & Credits
-Author: Your Name / Your Lab  
+Author: Prasad 
 For suggestions, improvements, or example VIs to include, please open an issue or send a patch.
 
 ---
 
-Thank you for trying the LabVIEW Function Generator. Happy signal processing!
+Thank you for trying the LabVIEW Function Generator.
